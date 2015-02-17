@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Label\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\ \ \n\ Coin\ movement\ is\ handled\ by\ this\ method.\ It\ fetches\ X,Y\ co-ordinate\ of\ mouse\ and\ \n\ set\ the\ coin\ to\ the\ location.\n
+numComments=1
